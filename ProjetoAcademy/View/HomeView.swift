@@ -25,7 +25,7 @@ struct HomeView: View {
                         .padding(.leading)
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .fontWeight(.semibold)
-                        .padding(.top, 20)
+                        .padding(.top, 30)
                         .padding(.bottom, 10)
                     
                     
